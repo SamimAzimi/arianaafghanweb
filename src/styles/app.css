@@ -1,0 +1,8 @@
+.logo {
+  height: 90vh;
+  width: 90vh;
+}
+.logo > img {
+  height: 100%;
+  width: 100%;
+}
